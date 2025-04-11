@@ -34,7 +34,6 @@
 
 Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University of Economics and Business (AUEB). I am aiming to grow in the field of Data Science and Business Analytics.
 
-This repository contains my projects in Data Science, which include data analysis, machine learning, and other related techniques.
 
 ## About Me
 
