@@ -38,21 +38,21 @@ This repository contains my projects in Data Science, which include data analysi
 
 ## About Me
 
-- **Education:**🎓
+- **Education:** 🎓
   - BSc in Statistics @ AUEB
 
-- **Future Plans:**📊
+- **Future Plans:** 📊
   - Minor in Business Analytics @ The American College of Greece 
   - MSc in Data Science @ AUEB 
 
-- **Certifications & Courses:**🚀
+- **Certifications & Courses:** 🚀
   - Machine Learning at Stanford University (Coursera)
   - The Data Science Course: Complete Data Science Bootcamp (Udemy)
   - Microsoft Power BI for Business Intelligence (Udemy)
   - Machine Learning with Imbalanced Data (Udemy)
   - The Ultimate MySQL Bootcamp (Udemy)
 
-- **Interests:**🤓
+- **Interests:** 🤓
   - Data Science, Machine Learning, Statistics
   - Business Analytics, Business Intelligence
 
