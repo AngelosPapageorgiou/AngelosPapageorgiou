@@ -50,6 +50,10 @@ Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University
   - Microsoft Power BI for Business Intelligence (Udemy)
   - Machine Learning with Imbalanced Data (Udemy)
   - The Ultimate MySQL Bootcamp (Udemy)
+  - Python for Data Science and Machine Learning Bootcamp (Udemy)
+  - Data Science and Machine Learning Bootcamp with R (Udemy)
+
+
 
 - **Interests:** 🤓
   - Data Science, Machine Learning, Statistics
