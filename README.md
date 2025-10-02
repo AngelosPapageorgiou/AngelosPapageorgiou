@@ -41,7 +41,7 @@ Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University
   - BSc in Statistics @ AUEB
 
 
-- **Certifications & Courses:** 🚀
+- **Certifications & Courses:** �
   - The Data Science Course: Complete Data Science Bootcamp (Udemy)
   - Microsoft Power BI for Business Intelligence (Udemy)
   - Machine Learning with Imbalanced Data (Udemy)
