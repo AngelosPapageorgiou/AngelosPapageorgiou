@@ -40,9 +40,6 @@ Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University
 - **Education:** 🎓
   - BSc in Statistics @ AUEB
 
-- **Future Plans:** 📊
-  - Minor in Business Analytics @ The American College of Greece 
-  - MSc in Data Science @ AUEB 
 
 - **Certifications & Courses:** 🚀
   - The Data Science Course: Complete Data Science Bootcamp (Udemy)
