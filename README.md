@@ -30,14 +30,14 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-# Angelos Papageorgiou - Data Science Portfolio ✨
+# Angelos Papageorgiou - Data Science Portfolio
 
 Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University of Economics and Business (AUEB). I am aiming to grow in the field of Data Science and Business Analytics.
 
 
 ## About Me
 
-- **Education:** 🎓
+- **Education:**
   - BSc in Statistics @ AUEB
 
 
@@ -51,13 +51,13 @@ Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University
 
 
 
-- **Interests:** 🤓
+- **Interests:**
   - Data Science, Machine Learning, Statistics
   - AI, Deep Learning
 
 # Social
-- [LinkedIn](https://www.linkedin.com/in/angelos-papageorgiou-ap2409/) 🌐
-- [GitHub](https://github.com/angpapageorgiou) 🖥️
-- [Instagram](https://www.instagram.com/agg_ppg) 📸
-- [Facebook](https://www.facebook.com/AggelosPapageorgiouu?locale=el_GR) 📘
+- [LinkedIn](https://www.linkedin.com/in/angelos-papageorgiou-ap2409/)
+- [GitHub](https://github.com/angpapageorgiou)
+- [Instagram](https://www.instagram.com/agg_ppg)
+- [Facebook](https://www.facebook.com/AggelosPapageorgiouu?locale=el_GR)
 
