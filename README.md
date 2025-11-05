@@ -30,7 +30,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-# Angelos Papageorgiou - Data Science Portfolio
+# Angelos Papageorgiou
 
 Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University of Economics and Business (AUEB). I am aiming to grow in the field of Data Science and Business Analytics.
 
