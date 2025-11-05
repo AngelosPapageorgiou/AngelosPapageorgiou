@@ -32,7 +32,7 @@
 
 # Angelos Papageorgiou
 
-Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University of Economics and Business (AUEB). I am aiming to grow in the field of Data Science and Business Analytics.
+Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University of Economics and Business (AUEB). I am aiming to grow in the field of Statistics and Data Science.
 
 
 ## About Me
