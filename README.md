@@ -32,24 +32,13 @@
 
 # Angelos Papageorgiou
 
-Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University of Economics and Business (AUEB). I am aiming to grow in the field of Statistics and Data Science.
+Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University of Economics and Business (AUEB).
 
 
 ## About Me
 
 - **Education:**
   - BSc in Statistics @ AUEB
-
-
-- **Certifications & Courses:** �
-  - The Data Science Course: Complete Data Science Bootcamp (Udemy)
-  - Microsoft Power BI for Business Intelligence (Udemy)
-  - Machine Learning with Imbalanced Data (Udemy)
-  - The Ultimate MySQL Bootcamp (Udemy)
-  - Python for Data Science and Machine Learning Bootcamp (Udemy)
-  - Data Science and Machine Learning Bootcamp with R (Udemy)
-
-
 
 - **Interests:**
   - Data Science, Machine Learning, Statistics
