@@ -37,12 +37,12 @@ Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University
 
 ## About Me
 
-- **Education:**
-  - BSc in Statistics @ AUEB
+**Education:**
+BSc in Statistics @ AUEB
 
-- **Interests:**
-  - Data Science, Machine Learning, Statistics
-  - AI, Deep Learning
+**Interests:**
+Data Science, Machine Learning, Statistics
+AI, Deep Learning
 
 # Social
 - [LinkedIn](https://www.linkedin.com/in/angelos-papageorgiou-ap2409/)
