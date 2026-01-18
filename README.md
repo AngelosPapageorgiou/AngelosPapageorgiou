@@ -38,8 +38,8 @@ Hello! I’m Angelos Papageorgiou I study Statistics at AUEB and Artificial Inte
 ## About Me
 
 **Education:**
--BSc in Statistics at AUEB
--Minor in Artificial Intelligence
+- BSc in Statistics at AUEB
+- Minor in Artificial Intelligence
 
 
 **Interests:**
