@@ -36,16 +36,9 @@ Hi! I'm **Angelos Papageorgiou**, a student of **Statistics at AUEB** and **Arti
 I’m passionate about **Machine Learning**, **Data Science**, and building real-world AI systems.
 
 
-## About Me
-
 **Education:**
 - BSc in Statistics at AUEB
 - Minor in Artificial Intelligence
-
-
-**Interests:**
-Data Science, Machine Learning, Statistics
-AI, Deep Learning
 
 # Social
 - [LinkedIn](https://www.linkedin.com/in/angelos-papageorgiou-ap2409/)
