@@ -32,7 +32,8 @@
 
 # Angelos Papageorgiou
 
-Hello! I’m Angelos Papageorgiou I study Statistics at AUEB and Artificial Intelligence at ACG.
+Hi! I'm **Angelos Papageorgiou**, a student of **Statistics at AUEB** and **Artificial Intelligence at ACG**.  
+I’m passionate about **Machine Learning**, **Data Science**, and building real-world AI systems.
 
 
 ## About Me
