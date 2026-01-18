@@ -32,15 +32,14 @@
 
 # Angelos Papageorgiou
 
-Hello! I’m Angelos Papageorgiou, a Statistics student at the Athens University of Economics and Business (AUEB).
+Hello! I’m Angelos Papageorgiou I study Statistics at AUEB and Artificial Intelligence at ACG.
 
 
 ## About Me
 
 **Education:**
-BSc in Statistics at AUEB,
-
-Minor in Artificial Intelligence
+-BSc in Statistics at AUEB
+-Minor in Artificial Intelligence
 
 
 **Interests:**
