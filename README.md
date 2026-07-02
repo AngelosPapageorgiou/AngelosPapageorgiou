@@ -24,10 +24,6 @@ Most of my work here revolves around:
 * data exploration
 * SQL & data handling
 
-I work mainly with **Python, R, and SQL**, and I’m always trying to improve both my mathematical understanding and practical implementation skills.
-
-This repository is where I document my learning, projects, and experiments as I keep growing in the fields of statistics, machine learning, and large-scale data.
-
 ## Current interests
 
 Lately I’ve been spending time on:
